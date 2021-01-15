@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="457px" height="357px" viewBox="0 0 457 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>LogoAccent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="LogoAccent" sketch:type="MSLayerGroup" transform="translate(-158.000000, -209.000000)">
+            <path d="M590.711043,548 L512.446726,209 L456,209 L506.560134,428 L456,428 L456,446 L510.715761,446 L538.419944,566 L574.433335,566 L615,566 L615,548 L590.711043,548 Z M524.33411,260.489919 L456.00468,209 L512.446726,209 L524.33411,260.489919 L524.33411,260.489919 Z M423.320466,429.35838 L372.446726,209 L316,209 L398.419944,566 L399.226862,566 L423.320466,429.35838 Z M198.5,209 L234.446726,209 L285.320466,429.35838 L261.226862,566 L260.419944,566 L182.155627,227 L158,227 L158,209 L198.5,209 Z" id="Rectangle-1" fill="#191919" sketch:type="MSShapeGroup"></path>
+            <path d="M521.676951,248.980498 L468.621038,209 L512.446726,209 L521.676951,248.980498 Z" id="Accent" fill="#FB3D11" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
